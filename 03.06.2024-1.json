@@ -1,0 +1,25 @@
+{
+    "name": "Kyle King",
+    "age": 31,
+    "address": {
+        "street": "Jenkins Parkway",
+        "city": "West Christian",
+        "state": "South Carolina",
+        "zip": "89126"
+    },
+    "contact": {
+        "phone": "852-791-2828",
+        "servicePhone": "800719494"
+    },
+    "birthday": "1994-22-09",
+    "ip": "103.154.199.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Lay culture who about local artist. Office writer pattern letter risk effort job. Stage always without what certain. Major color factor he hot pick.\nDesign human hour man work skill.",
+        "bio": "Special able personal artist very simply ok. Whatever letter agent develop reveal drug. Drop move current every. A may not window beat."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
