@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Jones",
+    "age": 107,
+    "address": {
+        "street": "Barry Corners",
+        "city": "Zunigaburgh",
+        "state": "Hawaii",
+        "zip": "92993"
+    },
+    "contact": {
+        "phone": "+1-851-460-8581x02292",
+        "servicePhone": "800278121"
+    },
+    "birthday": "1918-02-05",
+    "ip": "200.136.209.36",
+    "foo": "bar",
+    "profile": {
+        "about": "Opportunity home child blood. Play participant at approach face. Student the think reason wide.",
+        "bio": "Today treatment that probably try support respond. Car leg financial exist down us face. Situation water wall issue represent.\nYeah although free real like hand."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
