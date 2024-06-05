@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Salas",
+    "age": 96,
+    "address": {
+        "street": "Brown Fall",
+        "city": "Bruceland",
+        "state": "Pennsylvania",
+        "zip": "33793"
+    },
+    "contact": {
+        "phone": "001-420-271-3197x725",
+        "servicePhone": "800068314"
+    },
+    "birthday": "1929-21-06",
+    "ip": "161.183.201.245",
+    "foo": "bar",
+    "profile": {
+        "about": "Something know true stop others music. Doctor author case me event. Chance present discussion run manager seat piece.\nMember her worry kitchen check. Also might wrong sort language.",
+        "bio": "Small read everything line. Religious manage friend.\nRate her stand describe. She team past need unit suffer. Art commercial religious them under."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
