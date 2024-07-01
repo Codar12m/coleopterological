@@ -1,0 +1,25 @@
+{
+    "name": "Martin Moran",
+    "age": 9,
+    "address": {
+        "street": "Matthew Mountains",
+        "city": "Jonesside",
+        "state": "Nebraska",
+        "zip": "84648"
+    },
+    "contact": {
+        "phone": "+1-447-988-1989",
+        "servicePhone": "800076725"
+    },
+    "birthday": "2016-20-08",
+    "ip": "62.126.75.87",
+    "foo": "bar",
+    "profile": {
+        "about": "Purpose month it despite shake window. Teacher leave huge sister card dinner around.\nOwner staff take require expert. Weight away draw various throughout.",
+        "bio": "Drop any him however me add source.\nEnjoy give least house. Body few claim good charge community."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
