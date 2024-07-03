@@ -1,0 +1,25 @@
+{
+    "name": "Michael Boyd",
+    "age": 56,
+    "address": {
+        "street": "Wise Meadows",
+        "city": "Hernandeztown",
+        "state": "Louisiana",
+        "zip": "81393"
+    },
+    "contact": {
+        "phone": "(973)664-2190x1976",
+        "servicePhone": "800588335"
+    },
+    "birthday": "1969-24-03",
+    "ip": "160.114.254.33",
+    "foo": "bar",
+    "profile": {
+        "about": "Lay spring owner nothing. During TV course even take view. Every spring serious view rich PM contain.\nPlay space begin second. Newspaper small training hotel play. Perform program choose after.",
+        "bio": "Number black grow health gas factor. Usually professor school police day stuff soon. Ready effort difficult word oil task team.\nSummer level apply feel. Future through discuss none hair."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
