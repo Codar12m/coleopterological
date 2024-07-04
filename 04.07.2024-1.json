@@ -1,0 +1,25 @@
+{
+    "name": "Drew Martinez",
+    "age": 68,
+    "address": {
+        "street": "Joseph Shoal",
+        "city": "South Nicole",
+        "state": "New Hampshire",
+        "zip": "66288"
+    },
+    "contact": {
+        "phone": "(202)598-1619x106",
+        "servicePhone": "800837947"
+    },
+    "birthday": "1957-01-04",
+    "ip": "2.109.166.53",
+    "foo": "bar",
+    "profile": {
+        "about": "Water resource middle care end born back age. Buy per three court hour.",
+        "bio": "Hundred institution grow land herself. Hospital choose what evidence oil. Pattern place star analysis attention.\nMovie word surface respond age sit high others. Open that reason interview."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
