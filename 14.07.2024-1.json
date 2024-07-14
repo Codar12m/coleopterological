@@ -1,0 +1,25 @@
+{
+    "name": "James Alexander",
+    "age": 24,
+    "address": {
+        "street": "Stevenson Locks",
+        "city": "Shieldstown",
+        "state": "Alabama",
+        "zip": "37339"
+    },
+    "contact": {
+        "phone": "(547)888-4983x0847",
+        "servicePhone": "800105467"
+    },
+    "birthday": "2001-19-05",
+    "ip": "52.74.225.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Get that write spend reality. Particular visit life nice. Yard sea remember trial word though.\nControl like six western best. Left growth ten final.",
+        "bio": "Fast food guy test add success. Continue air national drug wrong. Cover million learn race on say between.\nBut player expect seat race. Necessary determine season main. Note present PM paper."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
