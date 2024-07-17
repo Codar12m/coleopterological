@@ -1,0 +1,25 @@
+{
+    "name": "Julie Schneider",
+    "age": 1,
+    "address": {
+        "street": "Tonya Crescent",
+        "city": "Rachelshire",
+        "state": "California",
+        "zip": "76704"
+    },
+    "contact": {
+        "phone": "001-820-683-5369",
+        "servicePhone": "800627871"
+    },
+    "birthday": "2024-09-02",
+    "ip": "80.12.213.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Account reveal point. Center buy understand hair century box.\nLike mean heart specific also hold. Past play operation top.",
+        "bio": "Bad partner life affect at maintain. Tv ten responsibility public.\nSchool new rest ball stop in fight. International ahead forget issue place particularly test."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
