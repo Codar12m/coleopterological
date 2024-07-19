@@ -1,0 +1,25 @@
+{
+    "name": "Kelsey Hill",
+    "age": 78,
+    "address": {
+        "street": "Keller Radial",
+        "city": "North Matthewville",
+        "state": "Idaho",
+        "zip": "44254"
+    },
+    "contact": {
+        "phone": "508-953-3605x933",
+        "servicePhone": "800344537"
+    },
+    "birthday": "1947-30-05",
+    "ip": "40.25.94.124",
+    "foo": "bar",
+    "profile": {
+        "about": "West music act. Woman star food give total ago. Their shoulder beyond say audience inside foot then.",
+        "bio": "Physical fight whatever finish. Able explain some bill.\nPolitics while right old project hand. Base science occur report. Those fight trial. Memory fly onto consider focus effort foreign."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
