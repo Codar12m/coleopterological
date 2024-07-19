@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Ramirez",
+    "age": 81,
+    "address": {
+        "street": "Jeffery Wells",
+        "city": "South Laura",
+        "state": "Alabama",
+        "zip": "95688"
+    },
+    "contact": {
+        "phone": "(358)343-3857x034",
+        "servicePhone": "800748460"
+    },
+    "birthday": "1944-05-05",
+    "ip": "113.247.217.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Receive economy upon expect enough. Tough human customer house.\nFly song book source still up finally. Community fight most daughter letter describe. Face ball nor entire capital son.",
+        "bio": "Condition radio main Mr tonight truth but age. Their defense enter coach win doctor history.\nWear former color. Science single activity live list exactly."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
