@@ -1,0 +1,25 @@
+{
+    "name": "Melanie Bailey",
+    "age": 13,
+    "address": {
+        "street": "Velasquez Walks",
+        "city": "Lake Emmaview",
+        "state": "Colorado",
+        "zip": "19129"
+    },
+    "contact": {
+        "phone": "+1-907-328-6966x1148",
+        "servicePhone": "800577862"
+    },
+    "birthday": "2012-30-01",
+    "ip": "220.212.63.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Exist fill charge owner yes. Term agree really environmental party. Use pattern else actually drive black wonder.",
+        "bio": "Across use teacher past partner into appear. Vote statement daughter yeah road. Wear wind represent after including stuff scientist."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
