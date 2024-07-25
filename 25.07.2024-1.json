@@ -1,0 +1,25 @@
+{
+    "name": "Amber Short",
+    "age": 73,
+    "address": {
+        "street": "Joseph Courts",
+        "city": "Bakermouth",
+        "state": "Illinois",
+        "zip": "45938"
+    },
+    "contact": {
+        "phone": "(780)332-4928x550",
+        "servicePhone": "800275938"
+    },
+    "birthday": "1952-30-07",
+    "ip": "169.118.187.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Loss painting possible write. Change might management I main else source. Cause why from window million.",
+        "bio": "Civil myself home area blood reveal him.\nWithin tend material under. Plan size read goal. And something me political."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
