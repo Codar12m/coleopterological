@@ -1,0 +1,25 @@
+{
+    "name": "Larry Flores",
+    "age": 92,
+    "address": {
+        "street": "Nelson Freeway",
+        "city": "East Tracy",
+        "state": "Wisconsin",
+        "zip": "66855"
+    },
+    "contact": {
+        "phone": "(294)984-8296x872",
+        "servicePhone": "800588022"
+    },
+    "birthday": "1933-05-11",
+    "ip": "42.104.43.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Economic until full writer true. Environment care chance for blood fine. Write machine husband surface. Store whatever town imagine.",
+        "bio": "She become morning manage. Defense high writer only understand.\nCup girl effect soldier machine. Think author radio sort hit interview. Marriage someone shake raise agent relationship check."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
