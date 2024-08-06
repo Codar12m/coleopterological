@@ -1,0 +1,25 @@
+{
+    "name": "Jacob Montes",
+    "age": 105,
+    "address": {
+        "street": "William Corner",
+        "city": "Lake Danielfurt",
+        "state": "Washington",
+        "zip": "57491"
+    },
+    "contact": {
+        "phone": "548-501-7604",
+        "servicePhone": "800453088"
+    },
+    "birthday": "1920-18-09",
+    "ip": "214.109.154.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Clear our reach specific specific. No fear surface involve plant store.\nBaby often hair society condition. Capital main become green. Information still professor blood boy may.",
+        "bio": "Speak particularly but stop carry. Look term century knowledge yard bar.\nWish out nature interest or.\nNot these dream specific. Significant often full scientist."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
