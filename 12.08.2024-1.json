@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Nathan Haynes DDS",
+    "age": 51,
+    "address": {
+        "street": "Tara Flat",
+        "city": "Connermouth",
+        "state": "Iowa",
+        "zip": "44860"
+    },
+    "contact": {
+        "phone": "001-505-917-7906x863",
+        "servicePhone": "800671958"
+    },
+    "birthday": "1974-16-07",
+    "ip": "97.235.196.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Everyone share money talk campaign live south technology. Sure among seven cup late.\nTell radio as model you garden. Total executive hour moment.",
+        "bio": "Type adult wrong. Do budget speech religious unit onto system.\nWonder American computer together clear hard enjoy. Group possible how mention money she. Down rather tax most town clear."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
