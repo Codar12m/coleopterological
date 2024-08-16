@@ -1,0 +1,25 @@
+{
+    "name": "Loretta Nichols",
+    "age": 17,
+    "address": {
+        "street": "George Way",
+        "city": "Roberthaven",
+        "state": "Kentucky",
+        "zip": "87821"
+    },
+    "contact": {
+        "phone": "+1-230-880-9215",
+        "servicePhone": "800946924"
+    },
+    "birthday": "2008-12-05",
+    "ip": "130.66.221.18",
+    "foo": "bar",
+    "profile": {
+        "about": "For air simple eye cover hard. Everybody raise into whom. Animal seek simple party soon.\nCost everything for last upon cold color. Could approach skill second special.",
+        "bio": "Section structure wrong case food by hotel conference. Front not success support young."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
