@@ -1,0 +1,25 @@
+{
+    "name": "Regina Mills",
+    "age": 43,
+    "address": {
+        "street": "Travis Mission",
+        "city": "Figueroastad",
+        "state": "Arkansas",
+        "zip": "35090"
+    },
+    "contact": {
+        "phone": "+1-530-566-1166x7536",
+        "servicePhone": "800677131"
+    },
+    "birthday": "1982-24-10",
+    "ip": "72.187.207.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Option family either and turn. Exist born less to ok white beat.\nStrong ever nor carry. Case per again between where.",
+        "bio": "Majority here similar alone inside soldier.\nAdmit hard cell relationship. Experience black line."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
