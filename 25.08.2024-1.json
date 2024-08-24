@@ -1,0 +1,25 @@
+{
+    "name": "Shannon Nunez",
+    "age": 24,
+    "address": {
+        "street": "Reed Fort",
+        "city": "Zimmermanfort",
+        "state": "Connecticut",
+        "zip": "37469"
+    },
+    "contact": {
+        "phone": "001-363-681-8113x65746",
+        "servicePhone": "800021142"
+    },
+    "birthday": "2001-20-05",
+    "ip": "59.55.220.35",
+    "foo": "bar",
+    "profile": {
+        "about": "Prepare brother quickly TV that rock under. Of during eight end you.\nToday value year artist situation care rather. Someone statement one me method they and. Tough main reach live visit who thing.",
+        "bio": "Nearly professional think your woman through. College expect religious lot particularly season rest.\nChair allow its reason specific number catch."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
