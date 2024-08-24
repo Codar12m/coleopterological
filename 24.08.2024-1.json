@@ -1,0 +1,25 @@
+{
+    "name": "Chloe Cannon",
+    "age": 21,
+    "address": {
+        "street": "Williamson Road",
+        "city": "New Becky",
+        "state": "Ohio",
+        "zip": "87458"
+    },
+    "contact": {
+        "phone": "(455)476-2773x55861",
+        "servicePhone": "800449535"
+    },
+    "birthday": "2004-24-08",
+    "ip": "11.137.183.33",
+    "foo": "bar",
+    "profile": {
+        "about": "Bag raise matter movement. Quite claim sit condition majority.\nProgram defense yes hit politics. He learn animal student experience not event. Me foreign line discuss team blue southern.",
+        "bio": "Within despite occur home song will. Field age catch nice fact. Can recent be your. Wait name apply around similar hot.\nRole strategy particular real. Argue sound live difficult."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
