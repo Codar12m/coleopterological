@@ -1,0 +1,25 @@
+{
+    "name": "Ronald Meyer",
+    "age": 19,
+    "address": {
+        "street": "Danielle Court",
+        "city": "South Holly",
+        "state": "Vermont",
+        "zip": "32179"
+    },
+    "contact": {
+        "phone": "495.640.6443",
+        "servicePhone": "800164273"
+    },
+    "birthday": "2006-10-11",
+    "ip": "25.72.49.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Would discussion senior practice and. Option why special nearly create everyone near. Talk season factor raise among certain huge along.\nThe head form.",
+        "bio": "Bank off watch call research maintain. Raise stand car force soldier past western approach. Experience big plan executive peace pay experience."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
