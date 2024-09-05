@@ -1,0 +1,25 @@
+{
+    "name": "William Cox",
+    "age": 81,
+    "address": {
+        "street": "Robin Trail",
+        "city": "South Paulfort",
+        "state": "Pennsylvania",
+        "zip": "95878"
+    },
+    "contact": {
+        "phone": "(609)719-3249",
+        "servicePhone": "800576843"
+    },
+    "birthday": "1944-26-01",
+    "ip": "69.156.135.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Look two into early. Arrive enough nothing wait small black result. Team stage page television. Develop describe health.",
+        "bio": "List management light skill. Per school get not door body have. Carry system environmental suffer power north."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
