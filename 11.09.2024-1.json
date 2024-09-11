@@ -1,0 +1,25 @@
+{
+    "name": "Robin Williams",
+    "age": 17,
+    "address": {
+        "street": "Mitchell Port",
+        "city": "Richardshire",
+        "state": "Mississippi",
+        "zip": "84493"
+    },
+    "contact": {
+        "phone": "+1-995-357-4162x419",
+        "servicePhone": "800992211"
+    },
+    "birthday": "2008-14-09",
+    "ip": "139.239.13.248",
+    "foo": "bar",
+    "profile": {
+        "about": "Why author nature matter expert southern impact. Him value take crime heavy couple just. With today from all court.",
+        "bio": "Good team soldier election. Against factor future dark decision.\nShare everybody job area project result military. Bad thank assume least generation. Too pick important."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
