@@ -1,0 +1,25 @@
+{
+    "name": "Felicia Michael",
+    "age": 95,
+    "address": {
+        "street": "Kenneth Circles",
+        "city": "Allisonmouth",
+        "state": "Rhode Island",
+        "zip": "46302"
+    },
+    "contact": {
+        "phone": "8998251654",
+        "servicePhone": "800439922"
+    },
+    "birthday": "1930-26-01",
+    "ip": "24.53.71.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Goal window section deal management participant instead. According cause see station far air.\nPerson born push save wrong cost beautiful. Make somebody policy half health.",
+        "bio": "Discuss explain TV experience watch. Order plan minute send protect."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
