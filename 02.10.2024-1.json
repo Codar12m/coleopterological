@@ -1,0 +1,25 @@
+{
+    "name": "Shelia Blevins",
+    "age": 85,
+    "address": {
+        "street": "Samantha Path",
+        "city": "Jeffreychester",
+        "state": "Virginia",
+        "zip": "14842"
+    },
+    "contact": {
+        "phone": "(357)412-9795",
+        "servicePhone": "800389530"
+    },
+    "birthday": "1940-06-07",
+    "ip": "110.41.118.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Factor environment measure last project affect.\nFederal like prevent type many really. Take finally bring run. Trade billion both.\nMouth different seek parent somebody. Now friend shake.",
+        "bio": "These magazine probably rule. That simple evidence open.\nSeat specific account. Future instead study for tree. Morning soldier area run song project."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
