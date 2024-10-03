@@ -1,0 +1,25 @@
+{
+    "name": "Gregory Rice",
+    "age": 62,
+    "address": {
+        "street": "Herman Cape",
+        "city": "Kellyborough",
+        "state": "Connecticut",
+        "zip": "87761"
+    },
+    "contact": {
+        "phone": "9316654247",
+        "servicePhone": "800892043"
+    },
+    "birthday": "1963-27-01",
+    "ip": "18.117.109.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Thing not several every door human. College despite poor walk look population standard relate.\nArtist civil model politics available light. Score people side author she.",
+        "bio": "Health season free test usually. Blood short reduce tonight five reflect when. Cultural single still media send loss."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
