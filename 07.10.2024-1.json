@@ -1,0 +1,25 @@
+{
+    "name": "Deanna Bean",
+    "age": 14,
+    "address": {
+        "street": "Gallagher Roads",
+        "city": "Cooperside",
+        "state": "Florida",
+        "zip": "24760"
+    },
+    "contact": {
+        "phone": "729-999-7515",
+        "servicePhone": "800334615"
+    },
+    "birthday": "2011-14-01",
+    "ip": "4.47.84.89",
+    "foo": "bar",
+    "profile": {
+        "about": "Thus social far push. Image whatever national its year race of.\nTreat trial plan better someone choice. Thousand become begin pass draw go imagine.",
+        "bio": "Table industry decade shoulder result. Morning sort across should.\nJust must field reveal doctor. No identify discover director result."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
