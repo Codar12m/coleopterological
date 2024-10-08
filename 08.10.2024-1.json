@@ -1,0 +1,25 @@
+{
+    "name": "Mary Evans",
+    "age": 16,
+    "address": {
+        "street": "Donald Run",
+        "city": "Youngborough",
+        "state": "Maine",
+        "zip": "08989"
+    },
+    "contact": {
+        "phone": "5539707854",
+        "servicePhone": "800991435"
+    },
+    "birthday": "2009-20-01",
+    "ip": "184.186.116.132",
+    "foo": "bar",
+    "profile": {
+        "about": "No spring break person they. Try station court early. White offer seek great alone.",
+        "bio": "Consumer prevent send trouble difference few road. Yourself rise above thought tend everything discover build. Experience indicate discussion environment both."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
