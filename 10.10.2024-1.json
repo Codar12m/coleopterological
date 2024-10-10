@@ -1,0 +1,25 @@
+{
+    "name": "Michele Hunt",
+    "age": 86,
+    "address": {
+        "street": "Cook Fords",
+        "city": "South Christinefort",
+        "state": "Hawaii",
+        "zip": "32447"
+    },
+    "contact": {
+        "phone": "001-629-303-7389x3163",
+        "servicePhone": "800700788"
+    },
+    "birthday": "1939-24-11",
+    "ip": "50.165.239.63",
+    "foo": "bar",
+    "profile": {
+        "about": "My reflect develop structure to simple. Season image individual bad beautiful. Represent summer while shoulder. Half military other during.\nHerself until dinner analysis week world.",
+        "bio": "Weight long save significant radio light indeed. End baby draw look.\nWay simple believe production need place our. Cold floor local affect region man. Space yet long lawyer dark word protect."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
