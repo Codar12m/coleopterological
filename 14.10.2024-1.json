@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Crosby",
+    "age": 116,
+    "address": {
+        "street": "Shirley Point",
+        "city": "Claudiastad",
+        "state": "North Carolina",
+        "zip": "68168"
+    },
+    "contact": {
+        "phone": "(888)638-8445",
+        "servicePhone": "800969370"
+    },
+    "birthday": "1909-06-03",
+    "ip": "16.222.76.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Evidence focus wonder term. Scientist light will environment right star character. Common simple simply leader indicate have.",
+        "bio": "Support explain cause range since. Dinner hotel away life. Despite medical shoulder skin."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
