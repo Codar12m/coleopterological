@@ -1,0 +1,25 @@
+{
+    "name": "Dwayne Olson",
+    "age": 79,
+    "address": {
+        "street": "Billy Well",
+        "city": "Lake Ernest",
+        "state": "Montana",
+        "zip": "12796"
+    },
+    "contact": {
+        "phone": "815-244-2593x87688",
+        "servicePhone": "800259701"
+    },
+    "birthday": "1946-20-11",
+    "ip": "154.48.69.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Clearly about present simple authority friend future pattern. Yeah early wall summer skill shake worry. Into fight live nothing nor out order.",
+        "bio": "Expert camera necessary million there. Production never group draw approach.\nOff catch production church. Including seat social minute policy collection. Fear baby material determine check any."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
