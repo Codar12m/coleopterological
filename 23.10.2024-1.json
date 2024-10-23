@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Curry",
+    "age": 60,
+    "address": {
+        "street": "Montgomery Alley",
+        "city": "Richardsstad",
+        "state": "New Mexico",
+        "zip": "51928"
+    },
+    "contact": {
+        "phone": "214-816-5775x42119",
+        "servicePhone": "800975879"
+    },
+    "birthday": "1965-06-01",
+    "ip": "219.185.2.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Allow provide ok marriage now which detail. Special positive memory actually week reflect eye. Alone while green charge produce ten set.",
+        "bio": "Something similar toward of. Or I nothing purpose born. Tax turn stay home before.\nWeight business with party suggest. Partner his sometimes. Yourself trip once or sport state hour part."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
