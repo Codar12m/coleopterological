@@ -1,0 +1,25 @@
+{
+    "name": "Dillon Marshall",
+    "age": 64,
+    "address": {
+        "street": "Christopher Mill",
+        "city": "Murraytown",
+        "state": "Connecticut",
+        "zip": "12025"
+    },
+    "contact": {
+        "phone": "001-493-829-0231x583",
+        "servicePhone": "800314069"
+    },
+    "birthday": "1961-19-05",
+    "ip": "131.11.74.27",
+    "foo": "bar",
+    "profile": {
+        "about": "Goal expert account often reach. Thing official person home member. Institution build drop pick apply force.",
+        "bio": "Again class window like. Professional outside case professor. Property thousand foreign piece. Trouble skill machine."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
