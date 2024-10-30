@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Thomas",
+    "age": 18,
+    "address": {
+        "street": "Kevin Throughway",
+        "city": "Port Catherine",
+        "state": "Maryland",
+        "zip": "18018"
+    },
+    "contact": {
+        "phone": "001-312-300-0402x693",
+        "servicePhone": "800679772"
+    },
+    "birthday": "2007-29-09",
+    "ip": "119.205.2.243",
+    "foo": "bar",
+    "profile": {
+        "about": "Interest reality heart fear front. Despite campaign entire.\nMessage way discover century list up suggest. Should sell election listen son write scientist.",
+        "bio": "Position both development hospital I. Miss history pay evening teach five similar. Education argue financial when."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
