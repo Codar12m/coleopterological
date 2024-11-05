@@ -1,0 +1,25 @@
+{
+    "name": "Angela Davis",
+    "age": 99,
+    "address": {
+        "street": "Melinda Mountain",
+        "city": "Lake Erinfurt",
+        "state": "Arizona",
+        "zip": "85126"
+    },
+    "contact": {
+        "phone": "446-952-0062",
+        "servicePhone": "800301456"
+    },
+    "birthday": "1926-19-09",
+    "ip": "200.235.70.230",
+    "foo": "bar",
+    "profile": {
+        "about": "Push space true. For product believe attorney carry happen. Bill among know rate government significant guess.",
+        "bio": "Say themselves finish positive pass paper policy. Day region stuff.\nBest development have serve particular response bit without. Prepare under society sign measure wish."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
