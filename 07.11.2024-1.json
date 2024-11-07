@@ -1,0 +1,25 @@
+{
+    "name": "Frank Carrillo",
+    "age": 100,
+    "address": {
+        "street": "Bernard Track",
+        "city": "Port Jasonstad",
+        "state": "Connecticut",
+        "zip": "93657"
+    },
+    "contact": {
+        "phone": "7562093474",
+        "servicePhone": "800952268"
+    },
+    "birthday": "1925-08-02",
+    "ip": "134.79.196.69",
+    "foo": "bar",
+    "profile": {
+        "about": "Three information both girl particular establish. Some task value picture wear. Capital owner time event each. Pattern citizen generation call physical tough.",
+        "bio": "Statement blue meeting fly whole. International sell hot receive whom quality defense. Item bad much shake difficult.\nSpeech decide gun prevent. Strong player rise TV across tend."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
