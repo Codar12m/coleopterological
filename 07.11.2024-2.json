@@ -1,0 +1,25 @@
+{
+    "name": "Kaitlyn Kim",
+    "age": 79,
+    "address": {
+        "street": "Todd Ferry",
+        "city": "Cheyennefort",
+        "state": "Florida",
+        "zip": "85480"
+    },
+    "contact": {
+        "phone": "(381)490-9455x60784",
+        "servicePhone": "800893767"
+    },
+    "birthday": "1946-01-03",
+    "ip": "34.47.177.77",
+    "foo": "bar",
+    "profile": {
+        "about": "Work begin yourself six me church coach. Thought instead trip over with.\nSea bad to set will page draw.",
+        "bio": "Executive any card brother. Check fish actually cover second throughout.\nField two environmental evening society point right."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
