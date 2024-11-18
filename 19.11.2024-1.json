@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Khan",
+    "age": 114,
+    "address": {
+        "street": "Hunt Stream",
+        "city": "Shawnport",
+        "state": "Rhode Island",
+        "zip": "61155"
+    },
+    "contact": {
+        "phone": "5737856670",
+        "servicePhone": "800211621"
+    },
+    "birthday": "1911-24-03",
+    "ip": "147.142.134.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Laugh as performance cup she current know. Situation poor that name.\nFriend service ground. Commercial project something according girl method song add. Either term about true.",
+        "bio": "Body yes instead west mention down huge. Six one produce shoulder actually thought meeting.\nRange themselves see town. Network cover fine most television."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
