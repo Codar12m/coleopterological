@@ -1,0 +1,25 @@
+{
+    "name": "Amy Webb",
+    "age": 27,
+    "address": {
+        "street": "Marcia Green",
+        "city": "Anthonyton",
+        "state": "Connecticut",
+        "zip": "81966"
+    },
+    "contact": {
+        "phone": "872.256.4178x3673",
+        "servicePhone": "800162857"
+    },
+    "birthday": "1998-25-02",
+    "ip": "57.108.197.123",
+    "foo": "bar",
+    "profile": {
+        "about": "Section recognize none nor energy pay nothing. Benefit notice thing protect interesting him.",
+        "bio": "Send fast bank forget under edge. Before court letter. Unit morning improve arrive Congress prepare."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
