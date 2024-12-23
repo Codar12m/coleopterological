@@ -1,0 +1,25 @@
+{
+    "name": "Teresa Brown",
+    "age": 26,
+    "address": {
+        "street": "Jason Crest",
+        "city": "Pricebury",
+        "state": "California",
+        "zip": "69838"
+    },
+    "contact": {
+        "phone": "+1-392-999-2680x94456",
+        "servicePhone": "800965415"
+    },
+    "birthday": "1999-08-07",
+    "ip": "168.242.143.128",
+    "foo": "bar",
+    "profile": {
+        "about": "Phone tough produce public south subject. Direction later these away. Family him black structure.\nBoy writer not place group money standard.",
+        "bio": "School personal outside design generation drug. Number attack rest even analysis manage system.\nOfficer allow item always score. At range yes citizen gas long. Wife open determine I."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
