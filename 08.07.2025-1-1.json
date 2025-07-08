@@ -1,0 +1,25 @@
+{
+    "name": "Brian Walters",
+    "age": 19,
+    "address": {
+        "street": "Barrett Falls",
+        "city": "Carolbury",
+        "state": "Oregon",
+        "zip": "47086"
+    },
+    "contact": {
+        "phone": "934.263.0923",
+        "servicePhone": "800025324"
+    },
+    "birthday": "2006-15-03",
+    "ip": "138.71.26.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Today process paper beyond.\nSchool eye alone right them. Feel reality start scene response hair.",
+        "bio": "Within season ahead outside. Policy time must data apply.\nLittle stock save rest Congress."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
