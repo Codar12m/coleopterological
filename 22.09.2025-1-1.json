@@ -1,0 +1,25 @@
+{
+    "name": "Eric Wall",
+    "age": 87,
+    "address": {
+        "street": "Griffin View",
+        "city": "Richardton",
+        "state": "Delaware",
+        "zip": "78825"
+    },
+    "contact": {
+        "phone": "524.752.6189x606",
+        "servicePhone": "800443749"
+    },
+    "birthday": "1938-06-06",
+    "ip": "181.35.36.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Parent partner staff enter usually successful. Doctor product great build friend century. Nice argue doctor door.",
+        "bio": "Power let tax. Focus market move.\nProfessor significant prepare not. Civil onto I matter catch. Imagine current manage former side.\nUnit play information reach fill north. Assume away nothing his."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
