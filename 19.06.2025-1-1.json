@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Baldwin",
+    "age": 54,
+    "address": {
+        "street": "Kelly Cove",
+        "city": "Wilcoxstad",
+        "state": "Utah",
+        "zip": "72557"
+    },
+    "contact": {
+        "phone": "001-550-561-4305x2186",
+        "servicePhone": "800825827"
+    },
+    "birthday": "1971-17-05",
+    "ip": "182.149.234.38",
+    "foo": "bar",
+    "profile": {
+        "about": "Parent break community later any. Life off theory either program.",
+        "bio": "Pretty sit ever again send sound economy and. Maybe article social imagine whether. Service politics offer.\nScientist book tree else administration economy wish party. Black material edge difficult."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}

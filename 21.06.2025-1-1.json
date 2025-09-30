@@ -1,0 +1,25 @@
+{
+    "name": "Jose Barnett",
+    "age": 99,
+    "address": {
+        "street": "Smith Lake",
+        "city": "Port Dillon",
+        "state": "Idaho",
+        "zip": "54478"
+    },
+    "contact": {
+        "phone": "+1-923-628-6446x05730",
+        "servicePhone": "800039668"
+    },
+    "birthday": "1926-20-07",
+    "ip": "153.184.46.249",
+    "foo": "bar",
+    "profile": {
+        "about": "Woman wish main other car voice capital. Feel western edge ready girl respond perform scene.\nTry door nearly product prevent form. Evening memory body person.",
+        "bio": "Learn lead deal argue reason fund look. Church street dream edge should recognize. Front money outside indicate detail.\nFamily general training question play."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
