@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Brooks",
+    "age": 63,
+    "address": {
+        "street": "Mary Shoal",
+        "city": "West James",
+        "state": "Missouri",
+        "zip": "87224"
+    },
+    "contact": {
+        "phone": "(498)245-7537x618",
+        "servicePhone": "800373720"
+    },
+    "birthday": "1962-07-06",
+    "ip": "176.67.47.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Simple certainly deal source sell couple bring success. Glass hear performance maybe shoulder industry behavior certain.",
+        "bio": "Fire late role information. Particular sort wonder each. While mind true coach.\nParty remember summer guy board necessary serve."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
