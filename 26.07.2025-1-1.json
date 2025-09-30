@@ -1,0 +1,25 @@
+{
+    "name": "William Atkinson",
+    "age": 114,
+    "address": {
+        "street": "Atkins Court",
+        "city": "Jessicatown",
+        "state": "Delaware",
+        "zip": "69431"
+    },
+    "contact": {
+        "phone": "(426)593-3166x86812",
+        "servicePhone": "800933864"
+    },
+    "birthday": "1911-22-07",
+    "ip": "28.110.58.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Art down management ever with. Heavy suggest not church alone law term.\nManage clearly heart avoid. Name shake out blue better.",
+        "bio": "Significant work note their interesting. Cost together cost true military.\nDecide mother rich shoulder official source maybe. Pm yard top hour simple as dark. Fly street TV would federal name."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}

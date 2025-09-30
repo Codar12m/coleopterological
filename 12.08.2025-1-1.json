@@ -1,0 +1,25 @@
+{
+    "name": "Lee Hutchinson",
+    "age": 51,
+    "address": {
+        "street": "Greer Lock",
+        "city": "Davidsonstad",
+        "state": "Arizona",
+        "zip": "87141"
+    },
+    "contact": {
+        "phone": "+1-307-218-6403x201",
+        "servicePhone": "800862254"
+    },
+    "birthday": "1974-28-06",
+    "ip": "126.176.193.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Reality economic great million fall purpose. Activity instead politics throughout. Politics throw way national.",
+        "bio": "Four between part TV. Wall often boy force.\nApproach direction paper above fire role. Arm form amount parent success."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
