@@ -1,0 +1,25 @@
+{
+    "name": "Julia Luna",
+    "age": 31,
+    "address": {
+        "street": "Chad Road",
+        "city": "New Isaachaven",
+        "state": "Wyoming",
+        "zip": "90415"
+    },
+    "contact": {
+        "phone": "243-255-6781x9961",
+        "servicePhone": "800358081"
+    },
+    "birthday": "1994-29-10",
+    "ip": "152.200.222.96",
+    "foo": "bar",
+    "profile": {
+        "about": "On customer easy fund door race least. Still push affect take just. Floor student use. Among light send seat.",
+        "bio": "Turn conference laugh happy degree by. Over whatever national offer size."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
