@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Freeman",
+    "age": 25,
+    "address": {
+        "street": "Young Pine",
+        "city": "Lake Robertville",
+        "state": "Alaska",
+        "zip": "36602"
+    },
+    "contact": {
+        "phone": "(280)251-8557x4675",
+        "servicePhone": "800952822"
+    },
+    "birthday": "2000-16-03",
+    "ip": "153.91.238.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Threat support five central most. Black expect war specific set official talk.\nFire marriage raise especially son. Grow leader wear right resource.",
+        "bio": "Window economy glass employee also project pretty. See drive color director bring nearly director people.\nProcess social from few perhaps himself chance raise. Line fish father bad."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}

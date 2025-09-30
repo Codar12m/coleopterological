@@ -1,0 +1,25 @@
+{
+    "name": "Courtney Hernandez",
+    "age": 70,
+    "address": {
+        "street": "Kim Port",
+        "city": "Lisaburgh",
+        "state": "Missouri",
+        "zip": "70650"
+    },
+    "contact": {
+        "phone": "703-721-3360x92018",
+        "servicePhone": "800559704"
+    },
+    "birthday": "1955-13-01",
+    "ip": "86.101.193.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Staff account magazine truth where watch figure positive. Close customer issue purpose watch Congress need. Money fish civil.\nAppear party role high page from past. Either likely executive meeting.",
+        "bio": "Man before each vote article impact theory. Ahead stock every produce.\nRise cup large specific. Perhaps stage guess number. Involve second dark."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
