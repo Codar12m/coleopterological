@@ -1,0 +1,25 @@
+{
+    "name": "Alexander Davis",
+    "age": 24,
+    "address": {
+        "street": "Elizabeth Trail",
+        "city": "Castrobury",
+        "state": "North Carolina",
+        "zip": "32299"
+    },
+    "contact": {
+        "phone": "508-333-4791",
+        "servicePhone": "800703554"
+    },
+    "birthday": "2001-19-02",
+    "ip": "95.150.51.22",
+    "foo": "bar",
+    "profile": {
+        "about": "Reason national buy maintain. Specific treatment everybody interest the author.\nPersonal radio yes pull kitchen lead. President meet plant night east.",
+        "bio": "Whether both now financial. Letter attack experience south mean.\nKeep strong middle. Rise series soon claim picture. Last number good.\nHair note rise early. Ever and many back."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
