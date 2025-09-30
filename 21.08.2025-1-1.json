@@ -1,0 +1,25 @@
+{
+    "name": "Steven Shepard",
+    "age": 70,
+    "address": {
+        "street": "Evans Rapid",
+        "city": "New Michaelamouth",
+        "state": "Arizona",
+        "zip": "70000"
+    },
+    "contact": {
+        "phone": "+1-992-924-0272x5537",
+        "servicePhone": "800238388"
+    },
+    "birthday": "1955-30-03",
+    "ip": "101.65.145.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Finish hear subject. Father teach political important relate woman sort.\nLeg voice middle.\nFirm none believe. Against piece arrive.\nExecutive moment president majority.",
+        "bio": "Memory argue for general. Show me discussion discover clear. Tax once thought there accept."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
