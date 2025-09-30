@@ -1,0 +1,25 @@
+{
+    "name": "Alexandria Hoover",
+    "age": 90,
+    "address": {
+        "street": "Holloway Forge",
+        "city": "Matthewstad",
+        "state": "Louisiana",
+        "zip": "87558"
+    },
+    "contact": {
+        "phone": "+1-212-833-2884x98362",
+        "servicePhone": "800209629"
+    },
+    "birthday": "1935-03-05",
+    "ip": "140.39.106.26",
+    "foo": "bar",
+    "profile": {
+        "about": "Discuss eight usually marriage mouth adult right listen. Firm take pretty travel investment charge keep along. Price support mean president present.",
+        "bio": "Right no sometimes often surface traditional leg. Receive within base.\nEnergy trade begin international hear. Know decision modern ground form occur. Today deal then ready shake benefit develop."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}

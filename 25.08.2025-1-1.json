@@ -1,0 +1,25 @@
+{
+    "name": "Eugene Crawford",
+    "age": 15,
+    "address": {
+        "street": "Duffy Unions",
+        "city": "West Thomas",
+        "state": "Connecticut",
+        "zip": "65388"
+    },
+    "contact": {
+        "phone": "822-656-2480x70171",
+        "servicePhone": "800879518"
+    },
+    "birthday": "2010-03-06",
+    "ip": "160.47.211.127",
+    "foo": "bar",
+    "profile": {
+        "about": "Specific pull into floor defense. Style drop detail want young. Production leave particularly team.\nParty police my happen peace leave stand during. Eye bar strong.",
+        "bio": "Police boy ball spring race show. Street behavior together whose audience wear.\nCheck point how something vote people. Heavy figure military discuss interesting. Involve consider job identify."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
