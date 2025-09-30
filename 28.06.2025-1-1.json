@@ -1,0 +1,25 @@
+{
+    "name": "Victoria Robles",
+    "age": 101,
+    "address": {
+        "street": "Garcia Harbor",
+        "city": "West Carlport",
+        "state": "Florida",
+        "zip": "54009"
+    },
+    "contact": {
+        "phone": "453.843.4724x395",
+        "servicePhone": "800059857"
+    },
+    "birthday": "1924-18-10",
+    "ip": "160.164.118.135",
+    "foo": "bar",
+    "profile": {
+        "about": "Statement produce music five catch four. Hot real performance hundred. Marriage however campaign girl.\nTalk trip age capital art. Along hit body inside. Stop real exactly administration.",
+        "bio": "Agree small usually possible join especially.\nBall truth detail send realize political way. Red more none. Indicate ball manage rate letter think."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
